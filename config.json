@@ -1,11 +1,13 @@
 {
   "tipoAbertura": "selectmenu",
+  "corBotao": "Primary",
   "criarComo": "thread",
-  "supportRoles": {"cargo1": "", "cargo2": "", "cargo3": ""},
-  "opcoesTicket": [
-    {"label": "denúncia", "emoji": "🚫", "value": "reembolso"},
-    {"label": "Suporte", "emoji": "🎫", "value": "suporte"}
-  ],
-  "categoriaId": "",
-  "canalPainelId": ""
+  "cargos": { "c1": "", "c2": "", "c3": "" },
+  "cats": { "suporte": "", "denuncia": "", "parceria": "", "sorteio": "" },
+  "opcoes": [
+    {"label": "Suporte", "emoji": "❓", "value": "suporte", "cat": "suporte"},
+    {"label": "Denúncia", "emoji": "🚨", "value": "denuncia", "cat": "denuncia"},
+    {"label": "Parceria", "emoji": "🤝", "value": "parceria", "cat": "parceria"},
+    {"label": "Sorteio", "emoji": "🎁", "value": "sorteio", "cat": "sorteio"}
+  ]
 }
