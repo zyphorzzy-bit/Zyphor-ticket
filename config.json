@@ -1,5 +1,5 @@
 {
-  "tipoAbertura": "selectmenu",
+  "tipoAbertura": "botoes",
   "corBotao": "Primary",
   "criarComo": "thread",
   "cargos": { "c1": "", "c2": "", "c3": "" },
