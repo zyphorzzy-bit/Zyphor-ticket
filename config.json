@@ -1,7 +1,11 @@
 {
-  "prefix": ".",
-  "supportRoles": { "cargo1": "", "cargo2": "", "cargo3": "" },
+  "tipoAbertura": "selectmenu",
   "criarComo": "thread",
+  "supportRoles": {"cargo1": "", "cargo2": "", "cargo3": ""},
+  "opcoesTicket": [
+    {"label": "denúncia", "emoji": "🚫", "value": "reembolso"},
+    {"label": "Suporte", "emoji": "🎫", "value": "suporte"}
+  ],
   "categoriaId": "",
   "canalPainelId": ""
 }
