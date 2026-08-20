@@ -24,7 +24,7 @@ const padrao = {
   embedImage: '', embedThumb: '',
   cargos: { c1: '', c2: '', c3: '' },
   opcoes: [
-    { label: 'Suporte', emoji: ' <:atendimento:1536408857645940886> ', value: 'suporte' },
+    { label: 'Suporte', emoji: '📮', value: 'suporte' },
     { label: 'Denúncia', emoji: '🚨', value: 'denuncia' }
   ]
 };
