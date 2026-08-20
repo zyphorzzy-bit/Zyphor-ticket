@@ -5,8 +5,8 @@
   "cargos": { "c1": "", "c2": "", "c3": "" },
   "cats": { "suporte": "", "denuncia": "", "parceria": "", "sorteio": "" },
   "opcoes": [
-    {"label": "Suporte", "emoji": ":suporte:", "value": "suporte", "cat": "suporte"},
-    {"label": "Denúncia", "emoji": ":alerta:", "value": "denuncia", "cat": "denuncia"},
+    {"label": "Suporte", "emoji": "❓", "value": "suporte", "cat": "suporte"},
+    {"label": "Denúncia", "emoji": "🚨", "value": "denuncia", "cat": "denuncia"},
     {"label": "Parceria", "emoji": "🤝", "value": "parceria", "cat": "parceria"},
     {"label": "Sorteio", "emoji": "🎁", "value": "sorteio", "cat": "sorteio"}
   ]
