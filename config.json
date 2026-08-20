@@ -1,1 +1,39 @@
-
+{
+  "prefix": ".",
+  "supportRoles": {
+    "cargo1": "",
+    "cargo2": "",
+    "cargo3": ""
+  },
+  "ticketType": "select",
+  "createAs": "thread",
+  "categoryId": "",
+  "panelChannelId": "",
+  "logChannelId": "",
+  "ticketCategories": [
+    {
+      "label": "Reembolso",
+      "description": "Solicitar reembolso de partidas",
+      "emoji": "💰",
+      "value": "reembolso"
+    },
+    {
+      "label": "Receber Evento",
+      "description": "Dúvidas sobre eventos",
+      "emoji": "📅",
+      "value": "evento"
+    },
+    {
+      "label": "Vaga Mediador",
+      "description": "Candidatar-se a vaga de mediador",
+      "emoji": "👮",
+      "value": "mediador"
+    },
+    {
+      "label": "Suporte Geral",
+      "description": "Ajuda e dúvidas gerais",
+      "emoji": "❓",
+      "value": "suporte"
+    }
+  ]
+}
